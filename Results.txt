@@ -1,0 +1,6 @@
+The Total number of jobs processed : 100
+The Average of job size in KB: 118
+The Minimum of job size in KB: 16
+The Maximum of job size in KB: 253
+Number of jobs that completed normally is : 99
+Number of jobs that completed abnormally is : 1
